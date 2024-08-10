@@ -59,7 +59,7 @@
 	url = https://github.com/michael-winay/YTNoCommunityPosts.git
 [submodule "Tweaks/YouGroupSettings"]
 	path = Tweaks/YouGroupSettings
-	url = https://github.com/arichornloverALT/YouGroupSettings.git
+	url = https://github.com/PoomSmart/YouGroupSettings.git
 [submodule "Tweaks/YouTimeStamp"]
 	path = Tweaks/YouTimeStamp
 	url = https://github.com/arichornloverALT/YouTimeStamp.git
