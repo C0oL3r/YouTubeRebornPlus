@@ -60,6 +60,7 @@
 [submodule "Tweaks/YouGroupSettings"]
 	path = Tweaks/YouGroupSettings
 	url = https://github.com/PoomSmart/YouGroupSettings.git
+        brench = main
 [submodule "Tweaks/YouTimeStamp"]
 	path = Tweaks/YouTimeStamp
 	url = https://github.com/arichornloverALT/YouTimeStamp.git
