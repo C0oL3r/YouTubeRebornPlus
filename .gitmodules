@@ -23,7 +23,7 @@
 	branch = uYouEnhanced
 [submodule "Tweaks/YouTubeHeader"]
 	path = Tweaks/YouTubeHeader
-	url = https://github.com/PoomSmart/YouTubeHeader
+	url = https://github.com/C0oL3r/YouTubeHeader
 	branch = main
 [submodule "Tweaks/PSHeader"]
 	path = Tweaks/PSHeader
